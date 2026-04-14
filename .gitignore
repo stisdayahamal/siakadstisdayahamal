@@ -1,0 +1,13 @@
+.env
+vendor/
+backups/*.sql
+uploads/
+public/uploads/
+*.log
+test_db.json
+test_db.php
+test_schema.php
+test_sql.txt
+users_dump.txt
+.vscode/
+composer.lock
