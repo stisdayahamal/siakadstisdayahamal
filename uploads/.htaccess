@@ -1,0 +1,7 @@
+<FilesMatch "\.php$">
+    Deny from all
+</FilesMatch>
+php_flag engine off
+<FilesMatch "\.(jpg|jpeg|png|gif|pdf|csv|xls|xlsx)$">
+    Allow from all
+</FilesMatch>
