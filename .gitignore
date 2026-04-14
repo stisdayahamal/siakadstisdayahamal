@@ -1,6 +1,6 @@
 .env
 vendor/
-backups/*.sql
+backups/
 uploads/
 public/uploads/
 *.log
